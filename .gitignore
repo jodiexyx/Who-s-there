@@ -1,0 +1,6 @@
+*.pgm
+*.pyc
+*.swp
+__pycache__
+contacts/*
+*.json
